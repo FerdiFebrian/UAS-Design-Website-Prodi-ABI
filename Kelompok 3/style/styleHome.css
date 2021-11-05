@@ -1,0 +1,150 @@
+.header {
+    background-color: #F05454;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #950101;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.topnav2 {
+    overflow: hidden;
+    background-color: #F05454;
+}
+
+.topnav2 a {
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.fixed-nav{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.topnav a:hover {
+    background-color: #E98580;
+    color: black;
+}
+
+.footer {
+    background-color: #F05454;
+    padding: 18px;
+    text-align: center;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.footer p:hover {
+    overflow: hidden;
+    background-color: #E98580;
+    color: white;
+}
+
+img {
+    width: 1000px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30;
+    border-bottom-left-radius: 30;
+    border-color: white;
+    border-width: 30px;
+    border-style: solid;
+}
+
+img1 {
+    width: 10px;
+    height: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;*/
+
+.section {
+content: "";
+display: table;
+clear: both;
+
+}
+
+.section1 {
+content: "";
+display: table;
+clear: both;
+
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: right;
+    width: 10%;
+    padding: 15px;
+    text-align: justify;
+}
+
+.column1 {
+    float: right;
+    width: 10%;
+    padding: 15px;
+    text-align: justify;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+
+    .column2 {
+    float: left;
+    width: 97.50%;
+    padding: 15px;
+    text-align: justify;
+}
+
+.column3 {
+    float: left;
+    width: 63.95%;
+    padding: 15px;
+    text-align: justify;
+}
+
+
